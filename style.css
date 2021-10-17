@@ -229,9 +229,9 @@ span:nth-child(4n-3) { color: #00ff95;text-shadow: 1px 1px #3a2514, 2px 2px #3a2
 		margin: -60px;
 		text-align: center;
 	}
-	
 	@keyframes moving {
 		from {transform: translateX(0px);}
 		to {transform: translateX(25px);}
 	}
+	
 }
