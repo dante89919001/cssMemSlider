@@ -227,12 +227,14 @@ span:nth-child(4n-3) { color: #00ff95;text-shadow: 1px 1px #3a2514, 2px 2px #3a2
 	}
 	
 	#active {
-		margin: -70px;
+		 margin-top: -70px;
 		text-align: center;
+   		 max-width: 320px;
 	}
 	@keyframes moving {
 		from {transform: translateX(0px);}
 		to {transform: translateX(25px);}
 	}
+	
 	
 }
