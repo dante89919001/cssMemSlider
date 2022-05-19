@@ -32,7 +32,7 @@ article img{
 }
 
 #desktop:checked ~ #slider{ 
-	max-width: 100rem; 
+	max-width: 90rem; 
 }
 
 
